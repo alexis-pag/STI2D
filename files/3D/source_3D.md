@@ -6,4 +6,4 @@
 | 3d_oud.glb | https://sketchfab.com/3d-models/3d-oud-1ac9c407c2cb4a2a9300bdfd8ef19f52 |
 | Animated fire | https://sketchfab.com/3d-models/animated-fire-ebb16a3df22247dd990a04585de64741 |
 | coin_pouch.glb | https://sketchfab.com/3d-models/coin-pouch-805e2a367e7f40dbba1ced88a48f297a |
-| old_oil_lamp.glb | https://sketchfab.com/3d-models/old-oil-lamp-aaa99a374e0c4a98868383c42ff6ae0d |
+| oil_lamp_lowpoly.glb | https://sketchfab.com/3d-models/oil-lamp-lowpoly-87aa46eb6d3242f699cb1b9fb3cfa4eb |
