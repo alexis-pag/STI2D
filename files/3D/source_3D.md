@@ -2,7 +2,7 @@
 | --- | --- | --- |
 | camel-download-the-original-glb | https://sketchfab.com/3d-models/camel-download-the-original-glb-05a0854fb54d4e34a100016545cc69e5 | CC BY Kenchoo |
 | bactrian_camel_low_poly(1).glb | https://sketchfab.com/3d-models/bactrian-camel-low-poly-1fb4d897df2e4d12ab185302a36b3d5f | CC by nc sa  Nyilonelycompany |
-| Modern Bedouin Tent - Type 1 ( High Poly ) | https://sketchfab.com/3d-models/modern-bedouin-tent-type-1-high-poly-7116751ea8244385ac9837bc919db50b |  |
+| Modern Bedouin Tent - Type 1 ( High Poly ) | https://sketchfab.com/3d-models/modern-bedouin-tent-type-1-high-poly-7116751ea8244385ac9837bc919db50b | cc by Jamil_Khalili |
 | 3d_oud.glb | https://sketchfab.com/3d-models/3d-oud-1ac9c407c2cb4a2a9300bdfd8ef19f52 |  |
 | Animated fire | https://sketchfab.com/3d-models/animated-fire-ebb16a3df22247dd990a04585de64741 |  |
 | coin_pouch.glb | https://sketchfab.com/3d-models/coin-pouch-805e2a367e7f40dbba1ced88a48f297a |  |
