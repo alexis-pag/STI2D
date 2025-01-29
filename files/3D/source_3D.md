@@ -10,3 +10,4 @@
 | carpet_carpet.glb | https://sketchfab.com/3d-models/carpet-carpet-3ad80023560d47748c00427be2bb3008 | CC by Mehdi Shahsavan |
 | marteau.glb | https://sketchfab.com/3d-models/kcisa-hammer-02-4dc70e3b6f9c40559346e9a9ad038a5c | CC by Korea Culture Information Service Agency |
 | leather_pouf.glb | https://sketchfab.com/3d-models/leather-pouf-bf2f6af348a4492a813f467ecd01b445 | CC by Valk |
+| cushion_3.glb | https://sketchfab.com/3d-models/cushion-3-c7701400e97a4c8eb736945613a4cc54 | cc by Daniel.Orlando.Tapia | 
