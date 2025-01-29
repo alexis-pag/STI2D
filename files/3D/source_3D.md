@@ -13,3 +13,4 @@
 | cushion_3.glb | https://sketchfab.com/3d-models/cushion-3-c7701400e97a4c8eb736945613a4cc54 | cc by Daniel.Orlando.Tapia | 
 | assietteplate.glb | https://sketchfab.com/3d-models/assietteplate-5166f44ef6ca4d298a497acdf9b38a58 | CC by nc SalrunMacaod | 
 |tonneaupourtextures.glb |https://sketchfab.com/3d-models/tonneaupourtextures-22ec07bbe04f47b68dab02484cb6871d | CC by Giriga | 
+| modern_bedouin_tent_-_type_1__high_poly | https://sketchfab.com/3d-models/middle-aged-ottoman-table-dba53bdbe4c3421188314e61f6283e10 | CC by gauvain_boiche | 
