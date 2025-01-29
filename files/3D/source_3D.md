@@ -8,4 +8,4 @@
 | coin_pouch.glb | https://sketchfab.com/3d-models/coin-pouch-805e2a367e7f40dbba1ced88a48f297a | CC by Andy B |
 | oil_lamp_lowpoly.glb | https://sketchfab.com/3d-models/oil-lamp-lowpoly-87aa46eb6d3242f699cb1b9fb3cfa4eb | CC by Vyacheslav_SD |
 | carpet_carpet.glb | https://sketchfab.com/3d-models/carpet-carpet-3ad80023560d47748c00427be2bb3008 | CC by Mehdi Shahsavan |
-| marteau.glb | https://sketchfab.com/3d-models/kcisa-hammer-02-4dc70e3b6f9c40559346e9a9ad038a5c |  |
+| marteau.glb | https://sketchfab.com/3d-models/kcisa-hammer-02-4dc70e3b6f9c40559346e9a9ad038a5c | CC by Korea Culture Information Service Agency |
