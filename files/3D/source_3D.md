@@ -12,3 +12,4 @@
 | leather_pouf.glb | https://sketchfab.com/3d-models/leather-pouf-bf2f6af348a4492a813f467ecd01b445 | CC by Valk |
 | cushion_3.glb | https://sketchfab.com/3d-models/cushion-3-c7701400e97a4c8eb736945613a4cc54 | cc by Daniel.Orlando.Tapia | 
 | assietteplate.glb | https://sketchfab.com/3d-models/assietteplate-5166f44ef6ca4d298a497acdf9b38a58 | CC by nc SalrunMacaod | 
+|tonneaupourtextures.glb |https://sketchfab.com/3d-models/tonneaupourtextures-22ec07bbe04f47b68dab02484cb6871d | CC by Giriga | 
