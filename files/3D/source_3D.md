@@ -16,3 +16,4 @@
 | modern_bedouin_tent_-_type_1__high_poly | https://sketchfab.com/3d-models/middle-aged-ottoman-table-dba53bdbe4c3421188314e61f6283e10 | CC by gauvain_boiche | 
 | dry_bush.glb | https://sketchfab.com/3d-models/dry-bush-1c2983644d6243f7993c3d8cbd11fe0d | CC by Luis Gustavo | 
 | biplane_trouble_in_paradise_asset.glb | https://sketchfab.com/3d-models/biplane-trouble-in-paradise-asset-75d927c0c5824e77808b7e822a833bc0 | CC attribution non commerciale by Icarus | 
+| meteor_crater__winslow_arizona.glb | https://sketchfab.com/3d-models/meteor-crater-winslow-arizona-52d34cf590ff4ad3a0c2b4e197ec09fb | CC by Nate Loper 🗺️ ⛏🏺| 
