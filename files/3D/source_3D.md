@@ -17,3 +17,4 @@
 | dry_bush.glb | https://sketchfab.com/3d-models/dry-bush-1c2983644d6243f7993c3d8cbd11fe0d | CC by Luis Gustavo | 
 | biplane_trouble_in_paradise_asset.glb | https://sketchfab.com/3d-models/biplane-trouble-in-paradise-asset-75d927c0c5824e77808b7e822a833bc0 | CC attribution non commerciale by Icarus | 
 | meteor_crater__winslow_arizona.glb | https://sketchfab.com/3d-models/meteor-crater-winslow-arizona-52d34cf590ff4ad3a0c2b4e197ec09fb | CC by Nate Loper 🗺️ ⛏🏺| 
+| snake_attack_animations_multiple.glb | https://sketchfab.com/3d-models/snake-attack-animations-multiple-83c4290cd4b648fd942d4bbc2280a3f6 | CC by Imagigoo | 
